@@ -1,0 +1,27 @@
+{
+    "id": "B641F404",
+    "path": "~/GitHub/metnum-2026/cntr_diff.R",
+    "project_path": "cntr_diff.R",
+    "type": "r_source",
+    "hash": "3003470011",
+    "contents": "",
+    "dirty": false,
+    "created": 1794190157372.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1794190284,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1794190284421,
+    "read_only": false,
+    "read_only_alternatives": []
+}
