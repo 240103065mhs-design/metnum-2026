@@ -1,0 +1,27 @@
+{
+    "id": "621AC3A4",
+    "path": "~/GitHub/metnum-2026/central difference.R",
+    "project_path": "central difference.R",
+    "type": "r_source",
+    "hash": "4285852425",
+    "contents": "",
+    "dirty": false,
+    "created": 1794187774220.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled4",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,7",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1794188027,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1794188027802,
+    "read_only": false,
+    "read_only_alternatives": []
+}
